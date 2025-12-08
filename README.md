@@ -21,7 +21,6 @@ In order to carry out the analysis below, I removed some columns that were mostl
 
 <img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/a8399bf8-776c-484d-a4db-7bcbf734590e" />
 
-![horizontal histogram](http://127.0.0.1:12056/chunk_output/80358B50c4bc00a6/0F7B7F17/cgrmt6cc3r16v/0000a7.png)
 
 
 ## Analysis
