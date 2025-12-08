@@ -22,10 +22,6 @@ In order to carry out the analysis below, I removed some columns that were mostl
 <img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/4aad4270-d159-4b25-930f-86d3fb27c1df" />
 
 
-
-
-
-
-
-
 ## Analysis
+<img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/40113be9-68ba-4cff-b368-7ea46019f366" />
+
