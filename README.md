@@ -7,7 +7,7 @@ As an aspiring public health professional, I am interested in factors that can b
 
 I got my data from the [CDC National Environmental Public Health Tracking Network]([url](https://ephtracking.cdc.gov/DataExplorer/)) and the [New York Behavioral Risk Factor Surveillance System]([url](https://www.health.ny.gov/statistics/prevention/injury_prevention/information_for_action/docs/2023-03_ifa_report.pdf)) (BRFSS). The green space data was recorded for 2020 while the New York State obesity rate data was recorded for 2021 yet released in 2023.
 
-##Processing Steps
+## Processing Steps
 On the CDC website mentioned, I went through the query panel and completed each step with the data I wanted. For Step 1(Content Area), I selected "Built Environment". For the Indicator I selected Access to Parks and Public Elementary Schools. For measure I selected Percent of People living within 1/2 or 1 mile of a park. For Step 2 Geography Type, I selected "State by County". For Step 3 (Geography), I selected New York. For Step 4 (Time), I selected 2020. And for Step 5 (Advanced Options) I selected 1/2 Mile for "Distance to Parks". I chose not to include race demographics. I then downloaded the data and uploaded it to an Excel spreadsheet
 
 For the BRFFS Data, since it was a pdf, I created my own table in google docs and inputted the data manually. I then copied the table and added it to the Excel Spreadsheet that contained the green space data.
@@ -19,6 +19,7 @@ In order to carry out the analysis below, I removed some columns that were mostl
 
 ## Visualization
 
+<img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/a8399bf8-776c-484d-a4db-7bcbf734590e" />
 
 ![horizontal histogram](http://127.0.0.1:12056/chunk_output/80358B50c4bc00a6/0F7B7F17/cgrmt6cc3r16v/0000a7.png)
 
