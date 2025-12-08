@@ -5,7 +5,7 @@ As someone interested in public health, I wanted to look at environmental factor
 
 ## Data Sources
 
-I got my data from the [CDC National Environmental Public Health Tracking Network](https://ephtracking.cdc.gov/DataExplorer/) and the 2021 [New York Behavioral Risk Factor Surveillance System]([url](https://www.health.ny.gov/statistics/prevention/injury_prevention/information_for_action/docs/2023-03_ifa_report.pdf)) (BRFSS). 
+I got my data from the [CDC National Environmental Public Health Tracking Network](https://ephtracking.cdc.gov/DataExplorer/) and the 2021 [New York Behavioral Risk Factor Surveillance System](https://www.health.ny.gov/statistics/prevention/injury_prevention/information_for_action/docs/2023-03_ifa_report.pdf) (BRFSS). 
 
 ## Processing Steps
 On the CDC National Environmental Public Health Tracking Network website, I had to go through a query panel to select the specific data I wanted. For Step 1 _(Content Area)_, I selected "Built Environment". For the _Indicator_ I selected "Access to Parks and Public Elementary Schools". For _Measure_ I selected "Percent of People living within 1/2 or 1 mile of a park". For Step 2 _Geography Type_, I selected "State by County". For Step 3 _(Geography)_, I selected New York. For Step 4 _(Time)_, I selected "2020". And for Step 5 _(Advanced Options)_ I selected "Distance to Park: 1/2 Mile". I chose not to include race demographics. I then downloaded the data and uploaded it to an Excel spreadsheet.
