@@ -1,7 +1,7 @@
 # Math144Project
 
 ## Motivation
-As someone interested in public health, I wanted to look at environmental factors and their correlation with population health. Access to green space stood out to me because I recently took up running over the summer and the convenience of living near a park with as running trail made it easier to do close to home. This made me wonder whether people living in areas more densely populated and with less green space, were less likely to take up recreational exercises like running due to the lack of infrastructure in their neighborhood. Hence, for this personal dataset project I decided to explore how access to green space may affect health outcomes in New York State specially looking at obesity. 
+As someone interested in public health, I wanted to look at environmental factors and their correlation with population health. Access to green space stood out to me because I recently took up running over the summer and the convenience of living near a park with a running trail came in handy. This made me wonder whether people living in areas more densely populated and with less green space, were less likely to take up recreational exercises like running due to the lack of infrastructure in their neighborhood. Hence, for this personal dataset project I decided to explore how access to green space may affect health outcomes in New York State specially looking at obesity. 
 
 ## Data Sources
 
