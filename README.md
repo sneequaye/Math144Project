@@ -8,16 +8,23 @@ As someone interested in public health, I wanted to look at environmental factor
 I got my data from the [CDC National Environmental Public Health Tracking Network](https://ephtracking.cdc.gov/DataExplorer/) and the 2021 [New York Behavioral Risk Factor Surveillance System](https://www.health.ny.gov/statistics/prevention/injury_prevention/information_for_action/docs/2023-03_ifa_report.pdf) (BRFSS). 
 
 ## Processing Steps
-On the CDC National Environmental Public Health Tracking Network website, I had to go through a query panel to select the specific data I wanted. For Step 1 _(Content Area)_, I selected "Built Environment". For the _Indicator_ I selected "Access to Parks and Public Elementary Schools". For _Measure_ I selected "Percent of People living within 1/2 or 1 mile of a park". For Step 2 _Geography Type_, I selected "State by County". For Step 3 _(Geography)_, I selected New York. For Step 4 _(Time)_, I selected "2020". And for Step 5 _(Advanced Options)_ I selected "Distance to Park: 1/2 Mile". I chose not to include race demographics. I then downloaded the data and uploaded it to an Excel spreadsheet.
+On the CDC National Environmental Public Health Tracking Network website, I had to go through a query panel to select the specific data I wanted. Below are the prompts and what I selected.
+Step 1: _Content Area_, -> "Built Environment". 
+       _Indicator_ -> "Access to Parks and Public Elementary Schools". 
+      _Measure_ -> "Percent of People living within 1/2 or 1 mile of a park". 
+Step 2: _Geography Type_, -> "State by County". 
+Step 3: _(Geography)_, -> "New York". 
+Step 4: _(Time)_, -> "2020". 
+Step 5: _(Advanced Options)_ -> "Distance to Park: 1/2 Mile". 
+I chose not to include race demographics. I then downloaded the data as a zip file and exported it to an Excel spreadsheet.
 
 For the BRFFS Data, since it was a pdf, I created my own table in google docs and inputted the data manually. I then copied the table and added it to the Excel Spreadsheet that contained the green space data.
 
-In terms of cleaning the data, I renamed some columns for easier readibility. So the "Value" column which contained the green space percentage, I changed to "greenspace". The "Percent.of.adults.who.have.obesity...." got renamed to "obesity". I also deleted columns "County FIPS" and "State Fips" that contained irrelevant data for my analysis.
+In terms of cleaning the data, I renamed some columns for easier readibility. So the "Value" column which contained the green space percentage, I changed to "greenspace". The "Percent.of.adults.who.have.obesity...." was renamed to "obesity". I also deleted columns "County FIPS" and "State Fips" that contained irrelevant data for my analysis.
 The Green space data was being read as a string in R since it included the percent sign so I had to convert it to numerical data. 
 
-
 ## Visualization
-After performing EDA and observing trends in the data, I narrowed down the top 5 counties with the highest amount of green space and the bottom 5 counties with the lowest percentage of green space. These plots compares counties in the top 5 or bottom 5 and their respective obesity rate.
+As part of my Exploratory Data Analysis, I ordered counties by their green space value to see the counties on the extreme ends. I then narrowed down the top 5 counties with the highest amount of green space and the bottom 5 counties with the lowest percentage of green space. These plots compares counties in the top 5 or bottom 5 and their respective obesity rate.
 
 <img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/9aa18291-5384-4f82-baa9-5144b61c657d" />
 <img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/3ac42f8a-ce7b-4ff9-bbde-11bac0088499" />
