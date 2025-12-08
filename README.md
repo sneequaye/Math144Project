@@ -10,12 +10,12 @@ I got my data from the [CDC National Environmental Public Health Tracking Networ
 ## Processing Steps
 On the CDC National Environmental Public Health Tracking Network website, I had to go through a query panel to select the specific data I wanted. Below are the prompts and what I selected.\
 Step 1: _Content Area_, -> "Built Environment". \
-       _Indicator_ -> "Access to Parks and Public Elementary Schools". \
-      _Measure_ -> "Percent of People living within 1/2 or 1 mile of a park". \
-Step 2: _Geography Type_, -> "State by County". \
-Step 3: _Geography_, -> "New York". \
-Step 4: _Time_, -> "2020". \
-Step 5: _Advanced Options_ -> "Distance to Park: 1/2 Mile". \
+       _Indicator_ -> "Access to Parks and Public Elementary Schools" \
+      _Measure_ -> "Percent of People living within 1/2 or 1 mile of a park" \
+Step 2: _Geography Type_, -> "State by County" \
+Step 3: _Geography_ -> "New York" \
+Step 4: _Time_ -> "2020" \
+Step 5: _Advanced Options_ -> "Distance to Park: 1/2 Mile" \
 I chose not to include race demographics. I then downloaded the data as a zip file and exported it to an Excel spreadsheet.
 
 For the BRFFS Data, since it was a pdf, I created my own table in google docs and inputted the data manually. I then copied the table and added it to the Excel Spreadsheet that contained the green space data.
