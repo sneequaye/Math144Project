@@ -18,8 +18,6 @@ Also the Green space data was being read as a string in R since it was already i
 In order to carry out the analysis below, I removed some columns that were mostly empty or didn't have interesting information and condensed some of the columns that had too many classes. I also added a couple of binary columns (kids and math) to make some of the analysis easier. The transformed data is uploaded here, along with the processing script. 
 
 ## Visualization
-
-<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/d88ef660-1048-4391-88a1-62ef1c1140f3" />
 <img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/9856b4cf-35c8-4fa8-b356-16a865dabd25" />
 <img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/4aad4270-d159-4b25-930f-86d3fb27c1df" />
 
