@@ -20,6 +20,9 @@ In order to carry out the analysis below, I removed some columns that were mostl
 ## Visualization
 
 <img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/a8399bf8-776c-484d-a4db-7bcbf734590e" />
+<img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/c2c46274-2fab-4f8b-895e-819b06da65c9" />
+<img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/95047784-9829-47e2-acd7-59560dd0e6cf" />
+
 
 
 
