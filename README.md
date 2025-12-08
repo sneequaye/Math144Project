@@ -18,10 +18,14 @@ The Green space data was being read as a string in R since it included the perce
 
 ## Visualization
 After performing EDA and observing trends in the data, I narrowed down the top 5 counties with the highest amount of green space and the bottom 5 counties with the lowest percentage of green space. These plots compares counties in the top 5 or bottom 5 and their respective obesity rate.
-<img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/9856b4cf-35c8-4fa8-b356-16a865dabd25" />
-<img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/4aad4270-d159-4b25-930f-86d3fb27c1df" />
+
+<img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/9aa18291-5384-4f82-baa9-5144b61c657d" />
+<img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/3ac42f8a-ce7b-4ff9-bbde-11bac0088499" />
 
 
 ## Analysis
+The bar charts clearly showed an association with low green space and higher obesity rates and vice versa. So I decided to create a scatter plot of the data to see whether there was a linear relationship between green space and obesity rate by NY County.
 <img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/40113be9-68ba-4cff-b368-7ea46019f366" />
+
+The regression shows a negative trend revealing that obesity and green space percentages are negatively related. On average, when green space access is low, we can expect obesity rates to be higher. However, this analysis is limited since there may be confounders present such as the COVID-19 Pandemic. This could mean green space wasn't as highly utilized since most people were remaining indoors and obesity rates could be attributed to more people staying home and eating more.
 
